@@ -1,4 +1,4 @@
-#function for czlculating simple interest
+#function for calculating simple interest
 def s_interest():
 	print("\nYOU ARE CALCULATING SIMPLE INTEREST\n")
 
