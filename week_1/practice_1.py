@@ -1,4 +1,4 @@
-# Interger number
+# Integer number
 num = 100
 print(num)
 print("Data Type of variable num is", type(num))
