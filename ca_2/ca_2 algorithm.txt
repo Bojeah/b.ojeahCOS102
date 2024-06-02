@@ -1,0 +1,33 @@
+Import necessary modules from Tkinter.
+
+Create a function to calculate the discounted price based on the total and discount percentage.
+
+Create a function to calculate and display the order total.
+
+Destroy the order window after calculation.
+
+Create a new window for displaying the total.
+
+Initialize variables and lists for items and quantities.
+
+Calculate the total price based on selected items and quantities.
+
+Determine the discount based on the total price and calculate the final price after the discount.
+
+Display total and discount information in the total window.
+
+Create a function to handle the order process.
+
+Create a dictionary of items with their prices.
+
+Create the order window with dropdown menus for item selection and quantity selection.
+
+Bind a button to calculate and display the order total.
+
+Create a function to create the menu window.
+
+Display menu items with prices in different categories.
+
+Call the order function to start the ordering process.
+
+Call the menu window function to start the program.
